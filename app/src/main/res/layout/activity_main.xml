@@ -48,7 +48,7 @@
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true"
             android:text="Team 1"
-            style="@style/textAppearance" />
+            style="@style/teamText" />
     </RelativeLayout>
 
     <RelativeLayout
@@ -92,6 +92,6 @@
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true"
             android:text="Team 2"
-            style="@style/textAppearance" />
+            style="@style/teamText" />
     </RelativeLayout>
 </LinearLayout>
