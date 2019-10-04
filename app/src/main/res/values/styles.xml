@@ -22,4 +22,8 @@
         <item name="android:contentDescription">@string/minus_button_description</item>
     </style>
 
+    <style name="textAppearance">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Headline</item>
+    </style>
+
 </resources>
